@@ -1,0 +1,17 @@
+	max_epochs	executor_memory	executor_cores	model
+0	20	4	8	bi-rnn
+1	20	4	8	lenet5
+2	20	4	16	bi-rnn
+3	20	4	16	lenet5
+4	20	32	8	bi-rnn
+5	20	32	8	lenet5
+6	20	32	16	bi-rnn
+7	20	32	16	lenet5
+8	60	4	8	bi-rnn
+9	60	4	8	lenet5
+10	60	4	16	bi-rnn
+11	60	4	16	lenet5
+12	60	32	8	bi-rnn
+13	60	32	8	lenet5
+14	60	32	16	bi-rnn
+15	60	32	16	lenet5
