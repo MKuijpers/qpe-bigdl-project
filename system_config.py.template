@@ -1,6 +1,8 @@
+# Copy this file and remove ".template" in the file name to use it
+
 SSH_USER = 'am72ghiassi' # don't change this
 
-# Sytem config
+# System config
 GCLOUD_ACCOUNT = '' # Compute email account, similar to 123456789012-compute@developer.gserviceaccount.com
 GCLOUD_KEY_PATH = ''  # The path to the Service Account Key (a JSON file, Brian!!)
 GCLOUD_PROJECT = ''  # GCloud project id
