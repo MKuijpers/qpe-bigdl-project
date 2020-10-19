@@ -6,7 +6,8 @@ raw/
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.iml
+.idea/*
 # C extensions
 *.so
 
