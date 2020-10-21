@@ -6,3 +6,5 @@ Source code for the QPE BigDL project from group 16
 * Fill all empty fields in ```system_config.py```
 * Use ```Run.ipynb``` to run experiments
 * Use ```Export.ipynb``` to export experiment logs
+* Use ```ANOVA.ipynb``` to perform ANOVA analysis and epoch predictions
+* Use ```BlackBox.ipynb``` to train black-box machine learning models and perform epoch predictions using these models
