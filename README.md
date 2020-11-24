@@ -1,5 +1,5 @@
-# QPE BigDL Project
-Source code for the QPE BigDL project from group 16
+# PrePoch Project
+Source code for the PrePoch system
 
 ## How to run
 * Copy and rename the ```system_config.py.template``` to ```system_config.py```
